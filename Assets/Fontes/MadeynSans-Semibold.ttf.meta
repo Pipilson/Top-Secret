@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 2e48492214cc4a6449efe478ca1f26be
+timeCreated: 1535074103
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MadeynSans
+  fontNames:
+  - MadeynSans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 67579d5e968fe5645a0ad01b9536d848, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
