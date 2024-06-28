@@ -1,2 +1,2 @@
 # Top Secret
-itch.io: https://pipilson.itch.io/a-maze-escape
+itch.io: https://pipilson.itch.io/top-secret
